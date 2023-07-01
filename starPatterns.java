@@ -214,19 +214,19 @@ public static void Q14(int n){
 }
     public static void main(String[] args) {
         int n = 5;
-        // Q1(n);
-        // Q2(n);
-        // Q3(n);
-        // Q4(n);
-        // Q5(n);
-        // Q6(n);
-        // Q7(n);
-        // Q8(n);
-        // Q9(n);
-        // Q10(n);
-        // Q11(n);
-        // Q12(n);
-        // Q13(n);
+        Q1(n);
+        Q2(n);
+        Q3(n);
+        Q4(n);
+        Q5(n);
+        Q6(n);
+        Q7(n);
+        Q8(n);
+        Q9(n);
+        Q10(n);
+        Q11(n);
+        Q12(n);
+        Q13(n);
         Q14(n);
     }
 }
